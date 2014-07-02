@@ -6,6 +6,7 @@
 * for, while
 * generate the mid code (ternary) for example: (+, a, b) -->a = a+b
 * generate the linked list saving the infomation of the values
+
 ###To-Do
 * generate assembly language
 * optimalize 
