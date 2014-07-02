@@ -1,6 +1,6 @@
-i#Smallc
-###It is a compiler for Smallc -- a subset of c language;
-###Parser: MPC
+#Smallc 
+##A compiler for Smallc -- a subset of c language;
+####Parser: MPC
 ###Now support
 * int , float ,char
 * for, while
